@@ -1,0 +1,7 @@
+Como usar:     Altere o valor de caminho_entrada para o
+               Escolha o formato de saída ( JPEG, PNG,BMP, etc.).
+               (Opcional) Defina o caminho_saida para onde a 
+
+Ex:  Se você tiver uma imagem chamada exemplo.png não JPEG, convertida.jpeg.
+
+Nota:  Se de que o formato de saída escolhido seja compatível com o conteúdo da imagem. Por exemplo, ao converter para JPEG transparências
